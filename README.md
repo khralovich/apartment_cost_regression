@@ -1,4 +1,4 @@
-# Apartments costs regression model
+# Apartments costs regression models
 
 This model considers several variables like size, type, condition, etc., to assess the expense of a specific living unit.
 
