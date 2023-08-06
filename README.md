@@ -1,4 +1,4 @@
-# Apartments costs regression models
+# Apartments costs regression model
 
 This model considers several variables like size, type, condition, etc., to assess the expense of a specific living unit. For the learning purposes, I did not use Scikit-learn or any other libraries first. When the model was ready, I built the same but with Scikit-learn and then validated both with help of RMSE metric.
 
