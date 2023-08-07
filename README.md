@@ -15,6 +15,7 @@ To run the Jupyter notebooks and replicate the analysis, the following dependenc
 - Jupyter Notebook
 - Pandas
 - Matplotlib
+- Scikit-learn
 
 ## Results
 
